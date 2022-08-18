@@ -1,5 +1,6 @@
 // heap.cpp
-// Diba Mirza
+// Student name: 
+//
 
 #include "heap.h"
 #include <iostream>
