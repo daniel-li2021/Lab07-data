@@ -1,6 +1,6 @@
 // heap.h
-// Binary heap tree header file for CS 24 lab
-// Diba Mirza
+// Student name: 
+//
 
 #ifndef HEAP_H
 #define HEAP_H
